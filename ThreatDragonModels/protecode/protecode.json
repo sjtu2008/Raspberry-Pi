@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "protecode",
+    "owner": "Roy Wang",
+    "description": "Protecode Threat Modeling"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "protecode",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
